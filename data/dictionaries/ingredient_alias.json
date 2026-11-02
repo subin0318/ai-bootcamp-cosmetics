@@ -1,0 +1,99 @@
+{
+  "panthenol": [
+    "panthenol",
+    "d-panthenol",
+    "dl-panthenol",
+    "판테놀",
+    "파텐올",
+    "비타민b5",
+    "비타민 b5",
+    "vitamin b5",
+    "provitamin b5",
+    "프로비타민b5",
+    "프로비타민 b5"
+  ],
+
+  "ceramide": [
+    "ceramide",
+    "ceramide np",
+    "ceramide ap",
+    "ceramide eop",
+    "세라마이드",
+    "세라마이드엔피",
+    "세라마이드np",
+    "피부장벽"
+  ],
+
+  "centella": [
+    "centella",
+    "centella asiatica",
+    "cica",
+    "병풀",
+    "병풀추출물",
+    "시카",
+    "마데카소사이드",
+    "아시아티코사이드",
+    "아시아틱애씨드",
+    "마데카식애씨드"
+  ],
+
+  "hyaluronic_acid": [
+    "hyaluronic acid",
+    "히알루론산",
+    "히아루론산",
+    "소듐하이알루로네이트",
+    "sodium hyaluronate",
+    "저분자 히알루론산",
+    "고분자 히알루론산"
+  ],
+
+  "niacinamide": [
+    "niacinamide",
+    "나이아신아마이드",
+    "비타민b3",
+    "비타민 b3",
+    "vitamin b3"
+  ],
+
+  "adenosine": [
+    "adenosine",
+    "아데노신",
+    "주름개선"
+  ],
+
+  "madecassoside": [
+    "madecassoside",
+    "마데카소사이드",
+    "병풀유래"
+  ],
+
+  "allantoin": [
+    "allantoin",
+    "알란토인",
+    "진정성분"
+  ],
+
+  "tea_tree": [
+    "tea tree",
+    "tea tree oil",
+    "티트리",
+    "티트리오일",
+    "melaleuca alternifolia"
+  ],
+
+  "alcohol": [
+    "alcohol",
+    "alcohol denat",
+    "에탄올",
+    "변성알코올",
+    "알코올"
+  ],
+
+  "fragrance": [
+    "fragrance",
+    "parfum",
+    "향료",
+    "인공향",
+    "향"
+  ]
+}

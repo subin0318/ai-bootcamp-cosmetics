@@ -1,0 +1,879 @@
+[
+  {
+    "id": "P001",
+    "name": "판테놀 장벽 크림",
+    "category": "cream",
+    "price_krw": 28000,
+    "skin_type": ["dry"],
+    "ingredients_raw": "정제수, 글리세린, 판테놀, 시어버터"
+  },
+  {
+    "id": "P002",
+    "name": "수분 진정 크림",
+    "category": "cream",
+    "price_krw": 32000,
+    "skin_type": ["combination"],
+    "ingredients_raw": "정제수, 글리세린, 알란토인"
+  },
+  {
+    "id": "P003",
+    "name": "시카 진정 크림",
+    "category": "cream",
+    "price_krw": 30000,
+    "skin_type": ["sensitive", "dry"],
+    "ingredients_raw": "정제수, 병풀추출물, 마데카소사이드"
+  },
+  {
+    "id": "P004",
+    "name": "히알루론 수분 크림",
+    "category": "cream",
+    "price_krw": 27000,
+    "skin_type": ["dry", "combination"],
+    "ingredients_raw": "정제수, 히알루론산, 글리세린"
+  },
+  {
+    "id": "P005",
+    "name": "어성초 진정 크림",
+    "category": "cream",
+    "price_krw": 29000,
+    "skin_type": ["oily", "sensitive"],
+    "ingredients_raw": "정제수, 어성초추출물, 판테놀"
+  },
+  {
+    "id": "P006",
+    "name": "저자극 수분 토너",
+    "category": "toner",
+    "price_krw": 18000,
+    "skin_type": ["sensitive"],
+    "ingredients_raw": "정제수, 알로에베라잎추출물"
+  },
+  {
+    "id": "P007",
+    "name": "히알루론 토너",
+    "category": "toner",
+    "price_krw": 20000,
+    "skin_type": ["dry"],
+    "ingredients_raw": "정제수, 히알루론산"
+  },
+  {
+    "id": "P008",
+    "name": "약산성 토너",
+    "category": "toner",
+    "price_krw": 19000,
+    "skin_type": ["oily", "combination"],
+    "ingredients_raw": "정제수, 판테놀, 알란토인"
+  },
+  {
+    "id": "P009",
+    "name": "비타민C 세럼",
+    "category": "serum",
+    "price_krw": 35000,
+    "skin_type": ["combination"],
+    "ingredients_raw": "정제수, 아스코빅애씨드, 판테놀"
+  },
+  {
+    "id": "P010",
+    "name": "나이아신아마이드 세럼",
+    "category": "serum",
+    "price_krw": 33000,
+    "skin_type": ["oily"],
+    "ingredients_raw": "정제수, 나이아신아마이드, 아연"
+  },
+  {
+    "id": "P011",
+    "name": "시카 진정 세럼",
+    "category": "serum",
+    "price_krw": 34000,
+    "skin_type": ["sensitive"],
+    "ingredients_raw": "정제수, 병풀추출물"
+  },
+  {
+    "id": "P012",
+    "name": "히알루론 수분 세럼",
+    "category": "serum",
+    "price_krw": 31000,
+    "skin_type": ["dry"],
+    "ingredients_raw": "정제수, 히알루론산"
+  },
+  {
+    "id": "P013",
+    "name": "약산성 폼 클렌저",
+    "category": "cleanser",
+    "price_krw": 15000,
+    "skin_type": ["sensitive"],
+    "ingredients_raw": "정제수, 코코글루코사이드"
+  },
+  {
+    "id": "P014",
+    "name": "저자극 젤 클렌저",
+    "category": "cleanser",
+    "price_krw": 16000,
+    "skin_type": ["oily"],
+    "ingredients_raw": "정제수, 병풀추출물"
+  },
+  {
+    "id": "P015",
+    "name": "수분 크림 클렌저",
+    "category": "cleanser",
+    "price_krw": 17000,
+    "skin_type": ["dry"],
+    "ingredients_raw": "정제수, 글리세린"
+  },
+  {
+    "id": "P016",
+    "name": "무기자차 선크림",
+    "category": "sunscreen",
+    "price_krw": 25000,
+    "skin_type": ["sensitive"],
+    "ingredients_raw": "징크옥사이드, 티타늄디옥사이드"
+  },
+  {
+    "id": "P017",
+    "name": "수분 선크림",
+    "category": "sunscreen",
+    "price_krw": 27000,
+    "skin_type": ["dry"],
+    "ingredients_raw": "정제수, 히알루론산"
+  },
+  {
+    "id": "P018",
+    "name": "산뜻한 선젤",
+    "category": "sunscreen",
+    "price_krw": 26000,
+    "skin_type": ["oily"],
+    "ingredients_raw": "정제수, 판테놀"
+  },
+  {
+    "id": "P019",
+    "name": "장벽 강화 크림",
+    "category": "cream",
+    "price_krw": 34000,
+    "skin_type": ["dry", "sensitive"],
+    "ingredients_raw": "세라마이드, 판테놀"
+  },
+  {
+    "id": "P020",
+    "name": "유분 조절 크림",
+    "category": "cream",
+    "price_krw": 31000,
+    "skin_type": ["oily"],
+    "ingredients_raw": "나이아신아마이드, 징크"
+  }
+
+  ,
+{
+  "id": "P021",
+  "name": "마데카소사이드 앰플",
+  "category": "serum",
+  "price_krw": 36000,
+  "skin_type": ["sensitive", "dry"],
+  "ingredients_raw": "정제수, 병풀추출물, 마데카소사이드"
+},
+{
+  "id": "P022",
+  "name": "티트리 진정 토너",
+  "category": "toner",
+  "price_krw": 21000,
+  "skin_type": ["oily", "sensitive"],
+  "ingredients_raw": "정제수, 티트리잎추출물, 판테놀"
+},
+{
+  "id": "P023",
+  "name": "고보습 슬리핑 크림",
+  "category": "cream",
+  "price_krw": 38000,
+  "skin_type": ["dry"],
+  "ingredients_raw": "정제수, 세라마이드, 시어버터, 판테놀"
+},
+{
+  "id": "P024",
+  "name": "약산성 폼 워시",
+  "category": "cleanser",
+  "price_krw": 14000,
+  "skin_type": ["combination", "oily"],
+  "ingredients_raw": "정제수, 코코베타인"
+},
+{
+  "id": "P025",
+  "name": "톤업 선크림",
+  "category": "sunscreen",
+  "price_krw": 29000,
+  "skin_type": ["combination"],
+  "ingredients_raw": "징크옥사이드, 티타늄디옥사이드, 나이아신아마이드"
+} ,
+
+{
+  "id": "P026",
+  "name": "수분 레이어링 토너",
+  "category": "toner",
+  "price_krw": 21000,
+  "skin_type": ["dry"],
+  "ingredients_raw": "정제수, 히알루론산, 글리세린"
+},
+{
+  "id": "P027",
+  "name": "산뜻한 피지 토너",
+  "category": "toner",
+  "price_krw": 20000,
+  "skin_type": ["oily"],
+  "ingredients_raw": "정제수, 판테놀, 알란토인"
+},
+{
+  "id": "P028",
+  "name": "약산성 데일리 토너",
+  "category": "toner",
+  "price_krw": 19500,
+  "skin_type": ["combination"],
+  "ingredients_raw": "정제수, 판테놀"
+},
+
+{
+  "id": "P029",
+  "name": "비타민C 브라이트닝 세럼",
+  "category": "serum",
+  "price_krw": 37000,
+  "skin_type": ["combination"],
+  "ingredients_raw": "정제수, 아스코빅애씨드"
+},
+{
+  "id": "P030",
+  "name": "수분 집중 앰플",
+  "category": "serum",
+  "price_krw": 34000,
+  "skin_type": ["dry"],
+  "ingredients_raw": "정제수, 히알루론산"
+},
+{
+  "id": "P031",
+  "name": "티트리 트러블 세럼",
+  "category": "serum",
+  "price_krw": 33000,
+  "skin_type": ["oily"],
+  "ingredients_raw": "정제수, 티트리잎추출물"
+},
+{
+  "id": "P032",
+  "name": "시카 리페어 세럼",
+  "category": "serum",
+  "price_krw": 35000,
+  "skin_type": ["sensitive"],
+  "ingredients_raw": "정제수, 병풀추출물"
+},
+
+{
+  "id": "P033",
+  "name": "약산성 데일리 클렌저",
+  "category": "cleanser",
+  "price_krw": 15000,
+  "skin_type": ["sensitive"],
+  "ingredients_raw": "정제수, 코코글루코사이드"
+},
+{
+  "id": "P034",
+  "name": "수분 보호 클렌저",
+  "category": "cleanser",
+  "price_krw": 17000,
+  "skin_type": ["dry"],
+  "ingredients_raw": "정제수, 글리세린"
+},
+{
+  "id": "P035",
+  "name": "피지 컨트롤 젤 클렌저",
+  "category": "cleanser",
+  "price_krw": 16000,
+  "skin_type": ["oily"],
+  "ingredients_raw": "정제수, 병풀추출물"
+},
+
+{
+  "id": "P036",
+  "name": "톤업 무기자차 선크림",
+  "category": "sunscreen",
+  "price_krw": 29000,
+  "skin_type": ["combination"],
+  "ingredients_raw": "징크옥사이드, 티타늄디옥사이드"
+},
+{
+  "id": "P037",
+  "name": "수분 보호 선크림",
+  "category": "sunscreen",
+  "price_krw": 28000,
+  "skin_type": ["dry"],
+  "ingredients_raw": "정제수, 히알루론산"
+},
+{
+  "id": "P038",
+  "name": "산뜻한 데일리 선젤",
+  "category": "sunscreen",
+  "price_krw": 26000,
+  "skin_type": ["oily"],
+  "ingredients_raw": "정제수, 판테놀"
+}
+,
+{
+  "id": "P039",
+  "name": "판테놀 수분 크림",
+  "category": "cream",
+  "price_krw": 29000,
+  "skin_type": ["dry"],
+  "ingredients_raw": "정제수, 판테놀, 글리세린"
+},
+{
+  "id": "P040",
+  "name": "라이트 수분 크림",
+  "category": "cream",
+  "price_krw": 27000,
+  "skin_type": ["combination"],
+  "ingredients_raw": "정제수, 히알루론산"
+},
+{
+  "id": "P041",
+  "name": "피지 컨트롤 크림",
+  "category": "cream",
+  "price_krw": 30000,
+  "skin_type": ["oily"],
+  "ingredients_raw": "정제수, 나이아신아마이드"
+},
+{
+  "id": "P042",
+  "name": "시카 장벽 크림",
+  "category": "cream",
+  "price_krw": 35000,
+  "skin_type": ["sensitive", "dry"],
+  "ingredients_raw": "정제수, 병풀추출물, 세라마이드"
+},
+{
+  "id": "P043",
+  "name": "히알루론 데일리 크림",
+  "category": "cream",
+  "price_krw": 28000,
+  "skin_type": ["dry"],
+  "ingredients_raw": "정제수, 히알루론산, 글리세린"
+},
+{
+  "id": "P044",
+  "name": "유분 최소화 크림",
+  "category": "cream",
+  "price_krw": 31000,
+  "skin_type": ["oily"],
+  "ingredients_raw": "정제수, 징크, 나이아신아마이드"
+},
+
+{
+  "id": "P045",
+  "name": "저자극 수딩 토너",
+  "category": "toner",
+  "price_krw": 18000,
+  "skin_type": ["sensitive"],
+  "ingredients_raw": "정제수, 알란토인"
+},
+{
+  "id": "P046",
+  "name": "수분 충전 토너",
+  "category": "toner",
+  "price_krw": 20000,
+  "skin_type": ["dry"],
+  "ingredients_raw": "정제수, 히알루론산"
+},
+{
+  "id": "P047",
+  "name": "피지 밸런스 토너",
+  "category": "toner",
+  "price_krw": 21000,
+  "skin_type": ["oily"],
+  "ingredients_raw": "정제수, 판테놀"
+},
+{
+  "id": "P048",
+  "name": "데일리 약산성 토너",
+  "category": "toner",
+  "price_krw": 19500,
+  "skin_type": ["combination"],
+  "ingredients_raw": "정제수, 알란토인"
+},
+
+{
+  "id": "P049",
+  "name": "브라이트닝 비타민 세럼",
+  "category": "serum",
+  "price_krw": 36000,
+  "skin_type": ["combination"],
+  "ingredients_raw": "정제수, 아스코빅애씨드"
+},
+{
+  "id": "P050",
+  "name": "수분 앰플 세럼",
+  "category": "serum",
+  "price_krw": 33000,
+  "skin_type": ["dry"],
+  "ingredients_raw": "정제수, 히알루론산"
+},
+{
+  "id": "P051",
+  "name": "트러블 케어 세럼",
+  "category": "serum",
+  "price_krw": 34000,
+  "skin_type": ["oily"],
+  "ingredients_raw": "정제수, 티트리잎추출물"
+},
+{
+  "id": "P052",
+  "name": "수딩 시카 세럼",
+  "category": "serum",
+  "price_krw": 35000,
+  "skin_type": ["sensitive"],
+  "ingredients_raw": "정제수, 병풀추출물"
+},
+
+{
+  "id": "P053",
+  "name": "약산성 마일드 폼 워시",
+  "category": "cleanser",
+  "price_krw": 15000,
+  "skin_type": ["sensitive"],
+  "ingredients_raw": "정제수, 코코글루코사이드"
+},
+{
+  "id": "P054",
+  "name": "수분 젤 클렌저",
+  "category": "cleanser",
+  "price_krw": 17000,
+  "skin_type": ["dry"],
+  "ingredients_raw": "정제수, 글리세린"
+},
+{
+  "id": "P055",
+  "name": "산뜻한 폼 클렌저",
+  "category": "cleanser",
+  "price_krw": 16000,
+  "skin_type": ["oily"],
+  "ingredients_raw": "정제수, 병풀추출물"
+},
+
+{
+  "id": "P056",
+  "name": "데일리 무기자차",
+  "category": "sunscreen",
+  "price_krw": 25000,
+  "skin_type": ["sensitive"],
+  "ingredients_raw": "징크옥사이드, 티타늄디옥사이드"
+},
+{
+  "id": "P057",
+  "name": "수분 선크림 라이트",
+  "category": "sunscreen",
+  "price_krw": 27000,
+  "skin_type": ["dry"],
+  "ingredients_raw": "정제수, 히알루론산"
+},
+{
+  "id": "P058",
+  "name": "산뜻한 선젤 플러스",
+  "category": "sunscreen",
+  "price_krw": 26000,
+  "skin_type": ["oily"],
+  "ingredients_raw": "정제수, 판테놀"
+},
+
+{
+  "id": "P059",
+  "name": "고보습 리치 크림",
+  "category": "cream",
+  "price_krw": 39000,
+  "skin_type": ["dry"],
+  "ingredients_raw": "정제수, 시어버터, 세라마이드"
+},
+{
+  "id": "P060",
+  "name": "수분 밸런스 크림",
+  "category": "cream",
+  "price_krw": 30000,
+  "skin_type": ["combination"],
+  "ingredients_raw": "정제수, 히알루론산"
+},
+{
+  "id": "P061",
+  "name": "유분 차단 크림",
+  "category": "cream",
+  "price_krw": 32000,
+  "skin_type": ["oily"],
+  "ingredients_raw": "정제수, 나이아신아마이드"
+},
+
+{
+  "id": "P062",
+  "name": "알로에 수딩 토너",
+  "category": "toner",
+  "price_krw": 18500,
+  "skin_type": ["sensitive"],
+  "ingredients_raw": "정제수, 알로에베라잎추출물"
+},
+{
+  "id": "P063",
+  "name": "히알루론 워터 토너",
+  "category": "toner",
+  "price_krw": 20500,
+  "skin_type": ["dry"],
+  "ingredients_raw": "정제수, 히알루론산"
+},
+
+{
+  "id": "P064",
+  "name": "수분 집중 세럼",
+  "category": "serum",
+  "price_krw": 32000,
+  "skin_type": ["dry"],
+  "ingredients_raw": "정제수, 히알루론산"
+},
+{
+  "id": "P065",
+  "name": "피지 케어 세럼",
+  "category": "serum",
+  "price_krw": 33000,
+  "skin_type": ["oily"],
+  "ingredients_raw": "정제수, 나이아신아마이드"
+},
+
+{
+  "id": "P066",
+  "name": "순한 젤 클렌저",
+  "category": "cleanser",
+  "price_krw": 15500,
+  "skin_type": ["sensitive"],
+  "ingredients_raw": "정제수, 코코글루코사이드"
+},
+
+{
+  "id": "P067",
+  "name": "톤업 데일리 선크림",
+  "category": "sunscreen",
+  "price_krw": 29500,
+  "skin_type": ["combination"],
+  "ingredients_raw": "징크옥사이드, 티타늄디옥사이드"
+},
+
+{
+  "id": "P068",
+  "name": "마무리 보습 크림",
+  "category": "cream",
+  "price_krw": 31000,
+  "skin_type": ["dry"],
+  "ingredients_raw": "정제수, 판테놀"
+},
+{
+  "id": "P069",
+  "name": "저자극 진정 크림",
+  "category": "cream",
+  "price_krw": 33000,
+  "skin_type": ["sensitive"],
+  "ingredients_raw": "정제수, 병풀추출물"
+},
+
+{
+  "id": "P070",
+  "name": "데일리 클리어 토너",
+  "category": "toner",
+  "price_krw": 19500,
+  "skin_type": ["combination"],
+  "ingredients_raw": "정제수, 판테놀"
+},
+
+{
+  "id": "P071",
+  "name": "브라이트닝 세럼 라이트",
+  "category": "serum",
+  "price_krw": 34000,
+  "skin_type": ["combination"],
+  "ingredients_raw": "정제수, 아스코빅애씨드"
+},
+
+{
+  "id": "P072",
+  "name": "산뜻한 폼 워시 플러스",
+  "category": "cleanser",
+  "price_krw": 16500,
+  "skin_type": ["oily"],
+  "ingredients_raw": "정제수, 병풀추출물"
+},
+
+{
+  "id": "P073",
+  "name": "수분 보호 선젤",
+  "category": "sunscreen",
+  "price_krw": 27500,
+  "skin_type": ["dry"],
+  "ingredients_raw": "정제수, 히알루론산"
+},
+
+{
+  "id": "P074",
+  "name": "장벽 강화 크림 플러스",
+  "category": "cream",
+  "price_krw": 37000,
+  "skin_type": ["dry", "sensitive"],
+  "ingredients_raw": "세라마이드, 판테놀"
+},
+
+{
+  "id": "P075",
+  "name": "진정 수딩 토너",
+  "category": "toner",
+  "price_krw": 19000,
+  "skin_type": ["sensitive"],
+  "ingredients_raw": "정제수, 알란토인"
+},
+
+{
+  "id": "P076",
+  "name": "수분 장벽 세럼",
+  "category": "serum",
+  "price_krw": 35000,
+  "skin_type": ["dry"],
+  "ingredients_raw": "정제수, 세라마이드"
+},
+
+{
+  "id": "P077",
+  "name": "약산성 마일드 클렌저",
+  "category": "cleanser",
+  "price_krw": 15000,
+  "skin_type": ["sensitive"],
+  "ingredients_raw": "정제수, 코코글루코사이드"
+},
+
+{
+  "id": "P078",
+  "name": "데일리 선젤",
+  "category": "sunscreen",
+  "price_krw": 25500,
+  "skin_type": ["oily"],
+  "ingredients_raw": "정제수, 판테놀"
+},
+
+{
+  "id": "P079",
+  "name": "수분 리페어 크림",
+  "category": "cream",
+  "price_krw": 32000,
+  "skin_type": ["dry"],
+  "ingredients_raw": "정제수, 히알루론산"
+},
+
+{
+  "id": "P080",
+  "name": "클리어 밸런스 토너",
+  "category": "toner",
+  "price_krw": 20000,
+  "skin_type": ["oily"],
+  "ingredients_raw": "정제수, 판테놀"
+},
+
+{
+  "id": "P081",
+  "name": "진정 앰플 세럼",
+  "category": "serum",
+  "price_krw": 34000,
+  "skin_type": ["sensitive"],
+  "ingredients_raw": "정제수, 병풀추출물"
+},
+
+{
+  "id": "P082",
+  "name": "수분 폼 클렌저",
+  "category": "cleanser",
+  "price_krw": 17000,
+  "skin_type": ["dry"],
+  "ingredients_raw": "정제수, 글리세린"
+},
+
+{
+  "id": "P083",
+  "name": "톤업 선젤",
+  "category": "sunscreen",
+  "price_krw": 28500,
+  "skin_type": ["combination"],
+  "ingredients_raw": "징크옥사이드, 티타늄디옥사이드"
+},
+
+{
+  "id": "P084",
+  "name": "고영양 크림",
+  "category": "cream",
+  "price_krw": 40000,
+  "skin_type": ["dry"],
+  "ingredients_raw": "정제수, 시어버터"
+},
+
+{
+  "id": "P085",
+  "name": "수딩 워터 토너",
+  "category": "toner",
+  "price_krw": 18500,
+  "skin_type": ["sensitive"],
+  "ingredients_raw": "정제수, 알로에베라잎추출물"
+},
+
+{
+  "id": "P086",
+  "name": "데일리 수분 세럼",
+  "category": "serum",
+  "price_krw": 31000,
+  "skin_type": ["combination"],
+  "ingredients_raw": "정제수, 히알루론산"
+},
+
+{
+  "id": "P087",
+  "name": "순한 클렌징 젤",
+  "category": "cleanser",
+  "price_krw": 16000,
+  "skin_type": ["sensitive"],
+  "ingredients_raw": "정제수, 병풀추출물"
+},
+
+{
+  "id": "P088",
+  "name": "보습 선크림 데일리",
+  "category": "sunscreen",
+  "price_krw": 27000,
+  "skin_type": ["dry"],
+  "ingredients_raw": "정제수, 히알루론산"
+},
+
+{
+  "id": "P089",
+  "name": "데일리 장벽 크림",
+  "category": "cream",
+  "price_krw": 33000,
+  "skin_type": ["dry"],
+  "ingredients_raw": "정제수, 판테놀"
+},
+
+{
+  "id": "P090",
+  "name": "피지 조절 토너",
+  "category": "toner",
+  "price_krw": 20500,
+  "skin_type": ["oily"],
+  "ingredients_raw": "정제수, 나이아신아마이드"
+},
+
+{
+  "id": "P091",
+  "name": "리페어 세럼",
+  "category": "serum",
+  "price_krw": 36000,
+  "skin_type": ["dry", "sensitive"],
+  "ingredients_raw": "정제수, 세라마이드"
+},
+
+{
+  "id": "P092",
+  "name": "마일드 폼 클렌저",
+  "category": "cleanser",
+  "price_krw": 15000,
+  "skin_type": ["combination"],
+  "ingredients_raw": "정제수, 코코글루코사이드"
+},
+
+{
+  "id": "P093",
+  "name": "라이트 선크림",
+  "category": "sunscreen",
+  "price_krw": 26000,
+  "skin_type": ["oily"],
+  "ingredients_raw": "정제수, 판테놀"
+},
+
+{
+  "id": "P094",
+  "name": "보습 크림 베이직",
+  "category": "cream",
+  "price_krw": 28000,
+  "skin_type": ["dry"],
+  "ingredients_raw": "정제수, 글리세린"
+},
+
+{
+  "id": "P095",
+  "name": "클리어 워터 토너",
+  "category": "toner",
+  "price_krw": 19000,
+  "skin_type": ["combination"],
+  "ingredients_raw": "정제수, 알란토인"
+},
+
+{
+  "id": "P096",
+  "name": "브라이트 세럼",
+  "category": "serum",
+  "price_krw": 35000,
+  "skin_type": ["combination"],
+  "ingredients_raw": "정제수, 아스코빅애씨드"
+},
+
+{
+  "id": "P097",
+  "name": "저자극 클렌저",
+  "category": "cleanser",
+  "price_krw": 15500,
+  "skin_type": ["sensitive"],
+  "ingredients_raw": "정제수, 코코글루코사이드"
+},
+
+{
+  "id": "P098",
+  "name": "수분 선젤 라이트",
+  "category": "sunscreen",
+  "price_krw": 26500,
+  "skin_type": ["dry"],
+  "ingredients_raw": "정제수, 히알루론산"
+},
+
+{
+  "id": "P099",
+  "name": "장벽 리치 크림",
+  "category": "cream",
+  "price_krw": 38000,
+  "skin_type": ["dry"],
+  "ingredients_raw": "세라마이드, 시어버터"
+},
+
+{
+  "id": "P100",
+  "name": "데일리 토너 베이직",
+  "category": "toner",
+  "price_krw": 18000,
+  "skin_type": ["all"],
+  "ingredients_raw": "정제수"
+},
+
+{
+  "id": "P101",
+  "name": "히알루론 세럼 베이직",
+  "category": "serum",
+  "price_krw": 30000,
+  "skin_type": ["dry"],
+  "ingredients_raw": "정제수, 히알루론산"
+},
+
+{
+  "id": "P102",
+  "name": "클렌징 폼 베이직",
+  "category": "cleanser",
+  "price_krw": 14000,
+  "skin_type": ["all"],
+  "ingredients_raw": "정제수, 코코글루코사이드"
+},
+
+{
+  "id": "P103",
+  "name": "선크림 베이직",
+  "category": "sunscreen",
+  "price_krw": 24000,
+  "skin_type": ["all"],
+  "ingredients_raw": "징크옥사이드"
+}
+
+
+]
